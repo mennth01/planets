@@ -1,3 +1,5 @@
 Cold and dry, but everything is my favorite color.
 The two moons may be a problem for Wolfman.
-Cloned change
+<<<<<<< HEAD
+Fixing the conflict.
+>>>>>>> de14883e6dedcf4266b9da348ac950a0c4297dd8
